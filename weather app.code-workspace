@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Users/bhumi/OneDrive/Documents/Desktop/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather app"
+	}
+}
